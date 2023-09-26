@@ -1,2 +1,4 @@
 # Dio-java-basic
-Repositorio para amazenar todos os contúdos do curso da DIO
+Repositorio para amazenar todos os contúdos do curso da DIO.
+
+Brasilaia
